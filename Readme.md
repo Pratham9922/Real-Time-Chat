@@ -125,7 +125,3 @@ To Run on browser
 ![addingContact](./real-chat-snippets/addingContact.png)
 
 
-## Made By
-
-- [@Swapn2003](https://github.com/Swapn2003)
-
